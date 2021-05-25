@@ -13,6 +13,7 @@
         </li>
       @endforeach
     </ul>
+    <a class="home" href="http://localhost:8000/create/game">Ad New Game</a>
   </main>
 
 @endsection
